@@ -8,6 +8,6 @@ A computer will drive a screen connected to a microcontroller over a serial conn
 
 ## Other Repos
 
-- [Arduino Screen Device Code]()
+- [Arduino Screen Device Code](https://github.com/mboleary/status-screen-arduino)
 
-- [Python Testing Libraries]()
+- [Python Testing Libraries](https://github.com/mboleary/status-screen-python-test)
